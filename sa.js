@@ -121,7 +121,7 @@ checkEmail = () => {
     return success(email);
   }
   else {
-    return error(email, "sinchana.s@mca.christuniversity.in, sinchana@christuniversity.in ");
+    return error(email, "ashwin.poulose@mca.christuniversity.in, ashwin@christuniversity.in ");
   }
 }
 
